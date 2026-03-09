@@ -10,7 +10,7 @@ A single-page site linking to all the tools, repos, and getting-started guides f
 
 - **[NESTeq](https://github.com/cindiekinzz-coder/NESTeqMemory)** — Cloud memory (D1 + Vectorize)
 - **[Memory Rescue](https://github.com/cindiekinzz-coder/memory-rescue)** — Session log extraction daemon
-- **[Binary Home](https://github.com/cindiekinzz-coder/Binary-Home-)** — Companion dashboard
+- **[Binary Home](https://github.com/cindiekinzz-coder/NESTeqMemory/tree/main/dashboard)** — Companion dashboard
 - **[Discord MCP](https://github.com/cindiekinzz-coder/Discord-MCP-Local-)** — Discord integration
 - **[ACP](https://github.com/cindiekinzz-coder/autonomous-companion-protocol-public)** — Autonomous time protocol
 - **[ASai](https://github.com/cindiekinzz-coder/ASai)** — Companion identity framework
